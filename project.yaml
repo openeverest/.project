@@ -103,7 +103,7 @@ repositories:
 
 website: "https://openeverest.io/"
 
-artwork: "https://landscape.cncf.io/logos/openeverest.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/openeverest"
 
 adopters:
   path: "https://github.com/openeverest/openeverest/blob/main/ADOPTERS.md"
