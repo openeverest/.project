@@ -96,8 +96,6 @@ repositories:
     tags: [tooling]
   - url: "https://github.com/openeverest/docs"
     tags: [docs]
-  - url: "https://github.com/openeverest/everest-doc"
-    tags: [docs]
   - url: "https://github.com/openeverest/openeverest.github.io"
     tags: [docs]
 
